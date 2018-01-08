@@ -3,4 +3,4 @@ now i´m going to see how it works.
 
 i´m now adding a line in the branch dev
 
-this is a line added in the final text.
+this is a line that i´ going to deleting.
