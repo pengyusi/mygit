@@ -2,4 +2,5 @@ hello, i creat a new branch
 now i´m going to see how it works.
 
 i´m now adding a line in the branch dev
-this is a line added in branch master.
+
+this is a line added in the final text.
